@@ -53,6 +53,7 @@ nav a{
     border: 0.25em solid;
     background-color: #F5B923;
     color: white;
+    border-radius: 15px;
 }
 
 nav a:hover {
