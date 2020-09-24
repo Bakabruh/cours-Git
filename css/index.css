@@ -10,7 +10,7 @@ body {
 
 /* HEADER */
 
-.prez{
+.container{
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -33,6 +33,7 @@ body {
 }
 
 .container p{
+    margin-bottom: 5em;
     font-family: 'Epilogue', sans-serif;
     font-size: 1em;
     text-align: center;
@@ -40,9 +41,22 @@ body {
     font-weight: 600;
 }
 
-/* MAIN */
+/* NAV */
 
+nav {
+    display: flex;
+    justify-content: space-around;
+}
 
+nav a{
+    text-decoration: none;
+    padding: 0 2em;
+    border: 0.25em solid;
+    background-color: #F5B923;
+    color: white;
+}
 
-
-/* FOOTER */
+a h1{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 300;
+}
