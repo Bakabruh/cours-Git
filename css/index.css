@@ -19,20 +19,22 @@ body {
     background-size: cover;
 }
 
-h1{
+.prez h1{
     display: flex;
     justify-content: center;
     margin: 0 0;
     font-family: 'Roboto Slab', serif;
     font-size: 3em;
     color: whitesmoke;
-    background-color: red;
+    background-color: #F5B923;
 }
 
 .container p{
     font-family: 'Epilogue', sans-serif;
     font-size: 1em;
     text-align: center;
+    color: #F52397;
+    font-weight: 600;
 }
 
 /* MAIN */
