@@ -4,12 +4,17 @@
 
 body {
     cursor: default;
-    margin: 0 10px;
+    margin: 0 10%;
+    height: 100vh;
 }
 
 /* HEADER */
 
 .prez{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background-image: url(../img/bougy.jpg);
     background-size: cover;
 }
@@ -17,10 +22,11 @@ body {
 h1{
     display: flex;
     justify-content: center;
+    margin: 0 0;
     font-family: 'Roboto Slab', serif;
     font-size: 3em;
-    text-decoration: underline;
-    color: #7E88F5;
+    color: whitesmoke;
+    background-color: red;
 }
 
 .container p{
