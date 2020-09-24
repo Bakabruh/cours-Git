@@ -28,8 +28,6 @@ body {
     font-size: 3em;
     color: whitesmoke;
     background-color: #F5B923;
-    /* color: #DB5D46;
-    background-color: red; */
 }
 
 .container p{
@@ -39,6 +37,7 @@ body {
     text-align: center;
     color: #F52397;
     font-weight: 600;
+    font-size: 1.2em;
 }
 
 /* NAV */
