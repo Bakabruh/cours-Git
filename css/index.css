@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@300;400;500;800&display=swap');
 /* pris par Pouniflu */ 
 
-body {
+.bodyIndex {
     cursor: default;
     margin: 0 10%;
     height: 100vh;
