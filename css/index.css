@@ -55,6 +55,12 @@ nav a{
     color: white;
 }
 
+nav a:hover {
+    color: antiquewhite;
+    background-color: #F0DA62;
+    transition: 0.5s;
+}
+
 a h1{
     font-family: 'Epilogue', sans-serif;
     font-weight: 300;
