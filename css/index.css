@@ -7,7 +7,12 @@ body {
 
 /* HEADER */
 
-
+.container{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    color: darkblue;
+}
 
 
 
