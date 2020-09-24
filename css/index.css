@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@300;400;500;800&display=swap');
+/* pris par Pouniflu */ 
+
+body {
+    cursor: default;
+    margin: 0 10%;
+    height: 100vh;
+}
+
+/* HEADER */
+
+.prez{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(../img/bougy.jpg);
+    background-size: cover;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 0 0;
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+    color: #DB5D46;
+    background-color: red;
+}
+
+.container p{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+/* MAIN */
+
+
+
+
+/* FOOTER */
