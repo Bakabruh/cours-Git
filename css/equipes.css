@@ -1,4 +1,4 @@
-body {
+#bodyequipe {
     background-color: #F5B923 ;
     }
     
@@ -19,7 +19,7 @@ body {
         font-size: 40px;;
     }
     
-    section{
+    .sectionequipe{
         display: flex;
         justify-content: space-between;
         border: #F52397 ;
@@ -28,5 +28,8 @@ body {
     
     .info{
         display: flex;
+    }
+    .info p{
+        margin:0;
     }
     
