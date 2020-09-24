@@ -1,3 +1,16 @@
 body {
-
+background-color: #F5B923 ;
 }
+
+.gauche{
+    height: 400px;
+    width: 400px;
+}
+
+.droite {
+    border: #F52397 ;
+    border-style: dotted;
+    height: 400px;
+    width: 700px;
+}
+
